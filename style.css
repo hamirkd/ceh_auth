@@ -1,0 +1,21 @@
+.btn-outline-secondary-perso:hover {
+    /* border: #6c757d!important; */
+    border: #0976d5!important;
+}
+
+.login-wrap {
+    position: relative;
+    background: #fff;
+    border-radius: 60px!important;
+    -webkit-box-shadow: 0 10px 34px -15px rgb(0 0 0 / 24%);
+    -moz-box-shadow: 0 10px 34px -15px rgba(0, 0, 0, .24);
+    box-shadow: 0 10px 34px -15pxrgba(0, 0, 0, .24);
+}
+
+.login-wrap:hover {
+    position: relative;
+    border-radius: 60px!important;
+    -webkit-box-shadow: 0 10px 34px -15px rgb(255, 213, 0);
+    -moz-box-shadow: 0 10px 34px -15px rgba(0, 0, 0, .24);
+    box-shadow: 0 10px 34px -15pxrgba(0, 0, 0, .24);
+}
